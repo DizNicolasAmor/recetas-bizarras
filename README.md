@@ -1,4 +1,4 @@
-## recetas-bizarras
+## Recetas Bizarras
 
 Nico Diz
 
@@ -8,7 +8,7 @@ You can see this project here:
 - https://diznicolasamor.github.io/recetas-bizarras/ 
 - https://codepen.io/DizNicolasAmor/full/ZXRMzP
 
-The user can play a Dungeon Crawler Game. 
+The user see, add edit and delete recipes. 
 
 This project is a challenge posed by FreeCodeCamp. Be free to use it and change it. 
 
